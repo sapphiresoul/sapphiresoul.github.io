@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Yang Xu
 
-You can use the [editor on GitHub](https://github.com/sapphiresoul/sapphiresoul.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a lecturer in the School of Information Science and Technology of Northwest University. I received my Ph.D. degree in the School of Intrumentation and Optoelectronic Engineering at Beihang University in 2020. My research interests include real-time realistic rendering and optical 3D measurement.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+E-mail: xuyang@nwu.edu.cn
 
 ### Markdown
 
