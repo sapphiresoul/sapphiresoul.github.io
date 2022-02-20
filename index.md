@@ -1,10 +1,22 @@
-## Yang Xu
+# Yang Xu
 
-I'm a lecturer in the School of Information Science and Technology of Northwest University. I received my Ph.D. degree in the School of Intrumentation and Optoelectronic Engineering at Beihang University in 2020. My research interests include real-time realistic rendering and optical 3D measurement.
+I'm a lecturer in School of Information Science and Technology of Northwest University.  
+I received my Ph.D. and B.E. degrees in School of Intrumentation and Optoelectronic Engineering at Beihang University in 2020 and 2014, respectively.  
+My research interests include real-time realistic rendering and optical 3D shape measurement.
 
 E-mail: xuyang@nwu.edu.cn
 
-### Markdown
+## Selected Publications
+### 2021
+- Yunfan Wang, Huijie Zhao, Hongzhi Jiang, Xudong Li, Yuxi Li, **Yang Xu**  
+Paraxial 3D shape measurement using parallel single-pixel imaging  
+**Optics Express** 29(19)    
+[[Link]](https://doi.org/10.1364/OE.435470)
+
+- Yuxi Li, Hongzhi Jiang, Huijie Zhao, Xudong Li, Yunfan Wang, **Yang Xu**  
+Compressive parallel single-pixel imaging for efficient 3D shape measurement in the presence of strong interreflections by using a sampling Fourier strategy  
+**Optics Express** 29(16)  
+[[Link]](https://doi.org/10.1364/OE.433118)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
