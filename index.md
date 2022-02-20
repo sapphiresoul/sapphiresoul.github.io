@@ -8,6 +8,7 @@ E-mail: xuyang(at)nwu(dot)edu(dot)cn
 
 ## Selected Publications
 ### 2021
+___
 **Paraxial 3D shape measurement using parallel single-pixel imaging**  
 Yunfan Wang, Huijie Zhao, Hongzhi Jiang, Xudong Li, Yuxi Li, Yang Xu  
 **Optics Express** 29(19)    
@@ -34,6 +35,7 @@ Hongzhi Jiang, Yuxi Li, Huijie Zhao, Xudong Li, Yang Xu
 [[Link]](https://doi.org/10.1007/s11263-020-01413-z)
 
 ### 2019
+___
 **3D shape measurement of translucent objects based on Fourier single-pixel imaging in projector-camera system**  
 Hongzhi Jiang, Huanjie Zhai, Yang Xu, Xudong Li, Huijie Zhao  
 **Optics Express** 27(23)  
@@ -45,6 +47,7 @@ Yang Xu, Huijie Zhao, Hongzhi Jiang, Xudong Li
 [[Link]](https://doi.org/10.1364/OE.27.018421)
 
 ### 2018
+___
 **3D shape measurement in the presence of strong interreflections by epipolar imaging and regional fringe projection**  
 Huijie Zhao, Yang Xu, Hongzhi Jiang, Xudong Li  
 **Optics Express** 26(6)  
