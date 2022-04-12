@@ -7,6 +7,13 @@ My research interests include real-time rendering and optical 3D shape measureme
 E-mail: xuyang(at)nwu(dot)edu(dot)cn
 
 ## Selected Publications
+### 2022
+___
+**Real-Time Ray-Traced Soft Shadows of Environmental Lighting by Conical Ray Culling**  
+Yang Xu, Yuanfa Jiang, Junbo Zhang, Kang Li, Guohua Geng  
+**Proceedings of the ACM on Computer Graphics and Interactive Techniques (i3D 2022)** 5(1)    
+[[Paper]](https://sapphiresoul.github.io/papers/conicalrayculling.pdf)
+
 ### 2021
 ___
 **Paraxial 3D shape measurement using parallel single-pixel imaging**  
