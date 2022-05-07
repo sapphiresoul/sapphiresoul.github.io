@@ -12,7 +12,7 @@ ___
 **Real-Time Ray-Traced Soft Shadows of Environmental Lighting by Conical Ray Culling**  
 Yang Xu, Yuanfa Jiang, Junbo Zhang, Kang Li, Guohua Geng  
 **Proceedings of the ACM on Computer Graphics and Interactive Techniques (i3D 2022)**  
-[[Paper]](https://sapphiresoul.github.io/conicalrayculling.pdf)[[Video]](https://media.githubusercontent.com/media/sapphiresoul/sapphiresoul.github.io/main/conicalrayculling.mp4)
+[[Paper]](https://sapphiresoul.github.io/conicalrayculling.pdf)[[Link]](https://doi.org/10.1145/3522617)[[Video]](https://media.githubusercontent.com/media/sapphiresoul/sapphiresoul.github.io/main/conicalrayculling.mp4)
 
 ### 2021
 ___
@@ -61,4 +61,4 @@ Huijie Zhao, Yang Xu, Hongzhi Jiang, Xudong Li
 [[Link]](https://doi.org/10.1364/OE.26.007117)
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">Visits<span id="busuanzi_value_site_pv"></span></span>
+<span id="busuanzi_container_site_u">Visitors: <span id="busuanzi_value_site_pv"></span></span>
