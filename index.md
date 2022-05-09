@@ -59,6 +59,3 @@ ___
 Huijie Zhao, Yang Xu, Hongzhi Jiang, Xudong Li  
 **Optics Express**  
 [[Link]](https://doi.org/10.1364/OE.26.007117)
-
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_uv">Visitors: <span id="busuanzi_value_site_uv"></span></span>
