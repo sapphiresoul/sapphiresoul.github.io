@@ -13,6 +13,7 @@ ___
 Yang Xu, Yuanfa Jiang, Chenhao Wang, Kang Li, Pengbo Zhou, Guohua Geng  
 **Proceedings of the Eurographics Symposium on Rendering (EGSR 2022)**  
 [[Paper]](https://sapphiresoul.github.io/DVF.pdf)  
+
 **Real-Time Ray-Traced Soft Shadows of Environmental Lighting by Conical Ray Culling**  
 Yang Xu, Yuanfa Jiang, Junbo Zhang, Kang Li, Guohua Geng  
 **Proceedings of the ACM on Computer Graphics and Interactive Techniques (i3D 2022)**  
