@@ -7,6 +7,12 @@ My research interests include real-time rendering and optical 3D shape measureme
 E-mail: xuyang(at)nwu(dot)edu(dot)cn
 
 ## Selected Publications
+### 2023
+___
+**Delta Path Tracing for Real-Time Global Illumination in Mixed Reality**  
+Yang Xu, Yuanfa Jiang, Shibo Wang, Kang Li, Guohua Geng  
+**Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces (Proc. IEEE VR 2023)**  
+
 ### 2022
 ___
 **Precomputed Discrete Visibility Fields for Real-Time Ray-Traced Environment Lighting**  
