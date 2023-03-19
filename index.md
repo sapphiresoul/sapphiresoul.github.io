@@ -12,6 +12,7 @@ ___
 **Delta Path Tracing for Real-Time Global Illumination in Mixed Reality**  
 Yang Xu, Yuanfa Jiang, Shibo Wang, Kang Li, Guohua Geng  
 **Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces (Proc. IEEE VR 2023)**  
+[[Paper]](https://sapphiresoul.github.io/DPT.pdf)  
 
 ### 2022
 ___
