@@ -1,6 +1,6 @@
 # Yang Xu
 
-I'm a lecturer in School of Information Science and Technology of Northwest University.  
+I'm an associate professor in School of Information Science and Technology of Northwest University.  
 I received my Ph.D. and B.E. degrees in School of Intrumentation and Optoelectronic Engineering at Beihang University in 2020 and 2014, respectively.  
 My research interests include real-time rendering and optical 3D shape measurement.
 
