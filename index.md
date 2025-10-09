@@ -1,29 +1,36 @@
 # Yang Xu
 
-I'm an associate professor in School of Information Science and Technology of Northwest University.  
-I received my Ph.D. and B.E. degrees in School of Intrumentation and Optoelectronic Engineering at Beihang University in 2020 and 2014, respectively.  
-My research interests include real-time rendering and optical 3D shape measurement.
+I'm an associate professor in the School of Computer Science, Northwest University, China.  
+I received my B.E. and Ph.D. degrees from Beihang University in 2014 and 2020, respectively.  
+My research interests include real-time rendering, differentiable rendering, augmented/mixed reality (AR/MR), and optical 3D shape measurement.
 
 E-mail: xuyang(at)nwu(dot)edu(dot)cn
 
 ## Selected Publications
+### 2025
+___
+**Real-Time Physically-Based Relighting and Composition of Radiance Fields with Proxy Meshes**  
+Yang Xu, Jinyang Bo, Junfeng Wang, He Tian, Yuhe Zhang, Kang Li, Guohua Geng  
+**IEEE International Symposium on Mixed and Augmented Reality (IEEE ISMAR 2025)**  
+[[Paper]](https://sapphiresoul.github.io/GSPT.pdf) 
+
 ### 2023
 ___
 **Delta Path Tracing for Real-Time Global Illumination in Mixed Reality**  
 Yang Xu, Yuanfa Jiang, Shibo Wang, Kang Li, Guohua Geng  
-**Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces (Proc. IEEE VR 2023)**  
+**IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2023)**  
 [[Paper]](https://sapphiresoul.github.io/DPT.pdf)  
 
 ### 2022
 ___
 **Precomputed Discrete Visibility Fields for Real-Time Ray-Traced Environment Lighting**  
 Yang Xu, Yuanfa Jiang, Chenhao Wang, Kang Li, Pengbo Zhou, Guohua Geng  
-**Proceedings of the Eurographics Symposium on Rendering (Proc. EGSR 2022)**  
+**Eurographics Symposium on Rendering (EGSR 2022)**  
 [[Paper]](https://sapphiresoul.github.io/DVF.pdf)  
 
 **Real-Time Ray-Traced Soft Shadows of Environmental Lighting by Conical Ray Culling**  
 Yang Xu, Yuanfa Jiang, Junbo Zhang, Kang Li, Guohua Geng  
-**Proceedings of the ACM on Computer Graphics and Interactive Techniques (Proc. i3D 2022)**  
+**Proceedings of the ACM on Computer Graphics and Interactive Techniques (Proc. I3D 2022)**  
 [[Paper]](https://sapphiresoul.github.io/conicalrayculling.pdf)[[Video]](https://media.githubusercontent.com/media/sapphiresoul/sapphiresoul.github.io/main/conicalrayculling.mp4)
 
 ### 2021
