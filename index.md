@@ -11,14 +11,14 @@ E-mail: xuyang(at)nwu(dot)edu(dot)cn
 ___
 **Real-Time Physically-Based Relighting and Composition of Radiance Fields with Proxy Meshes**  
 Yang Xu, Jinyang Bo, Junfeng Wang, He Tian, Yuhe Zhang, Kang Li, Guohua Geng  
-**IEEE International Symposium on Mixed and Augmented Reality (IEEE ISMAR 2025)**  
+**IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2025)**  
 [[Paper]](https://sapphiresoul.github.io/GSPT.pdf) 
 
 ### 2023
 ___
 **Delta Path Tracing for Real-Time Global Illumination in Mixed Reality**  
 Yang Xu, Yuanfa Jiang, Shibo Wang, Kang Li, Guohua Geng  
-**IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2023)**  
+**IEEE Conference on Virtual Reality and 3D User Interfaces (VR 2023)**  
 [[Paper]](https://sapphiresoul.github.io/DPT.pdf)  
 
 ### 2022
