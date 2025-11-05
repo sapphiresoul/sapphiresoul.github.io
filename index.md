@@ -1,6 +1,6 @@
 # Yang Xu
 
-I'm an associate professor in the School of Computer Science, Northwest University, China.  
+I'm an associate professor in the College of Computer Science, Northwest University, China.  
 I received my B.E. and Ph.D. degrees from Beihang University in 2014 and 2020, respectively.  
 My research interests include real-time rendering, differentiable rendering, augmented/mixed reality (AR/MR), and optical 3D shape measurement.
 
