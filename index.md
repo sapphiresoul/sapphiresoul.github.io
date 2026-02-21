@@ -7,6 +7,12 @@ My research interests include real-time rendering, differentiable rendering, aug
 E-mail: xuyang(at)nwu(dot)edu(dot)cn
 
 ## Selected Publications
+### 2026
+___
+**GHPT: Real-Time Relightable Gaussian Splatting using Hybrid Path Tracing**  
+Jinyang Bo, Fan Dou, Wenrui Quan, Shangxun Liu, Yang Xu, Yuhe Zhang, Kang Li, Guohua Geng  
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)** 
+
 ### 2025
 ___
 **Real-Time Physically-Based Relighting and Composition of Radiance Fields with Proxy Meshes**  
