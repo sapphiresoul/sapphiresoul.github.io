@@ -12,14 +12,14 @@ ___
 **GHPT: Real-Time Relightable Gaussian Splatting using Hybrid Path Tracing**  
 Jinyang Bo, Fan Dou, Wenrui Quan, Shangxun Liu, Yang Xu, Yuhe Zhang, Kang Li, Guohua Geng  
 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)**  
-[[Paper]](https://sapphiresoul.github.io/GHPT.pdf) 
+[[Paper]](https://sapphiresoul.github.io/GHPT.pdf)  
 
 ### 2025
 ___
 **Real-Time Physically-Based Relighting and Composition of Radiance Fields with Proxy Meshes**  
 Yang Xu, Jinyang Bo, Junfeng Wang, He Tian, Yuhe Zhang, Kang Li, Guohua Geng  
 **IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2025)**  
-[[Paper]](https://sapphiresoul.github.io/GSPT.pdf) 
+[[Paper]](https://sapphiresoul.github.io/GSPT.pdf)  
 
 ### 2023
 ___
