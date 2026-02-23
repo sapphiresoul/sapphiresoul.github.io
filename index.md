@@ -11,7 +11,7 @@ E-mail: xuyang(at)nwu(dot)edu(dot)cn
 ___
 **GHPT: Real-Time Relightable Gaussian Splatting using Hybrid Path Tracing**  
 Jinyang Bo, Fan Dou, Wenrui Quan, Shangxun Liu, Yang Xu, Yuhe Zhang, Kang Li, Guohua Geng  
-**IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)** 
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)**  
 [[Paper]](https://sapphiresoul.github.io/GHPT.pdf) 
 
 ### 2025
